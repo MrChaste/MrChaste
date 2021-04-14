@@ -1,11 +1,11 @@
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Chaste Akomoize.
 
 ---
-I am an Android Engineer who knows his way around the technologies listed in the **toolbox** below.
+I am an Android Engineer who knows his way around the technologies listed in the **toolbox** below, and then some.
 
 Now that I think about it, I would rather orate about sound software architecture than have *Lindt* chocolates (I really love these) 
 
-Thanks for visiting my Github profile. You can also get a hold of me on [Twitter](https://twitter.com/oseluonamen_) 
+Thanks for visiting my Github profile. You can also get a hold of me on [Twitter](https://twitter.com/oseluonamen_) and [LinkedIn](https://www.linkedin.com/in/chasteakomoize/)
 
 ---
 🧰 Toolbox 
@@ -15,6 +15,18 @@ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"> <img
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"> <img
 src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50">
+
+---
+
+## &#x1f4c8; My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrChaste&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChaste&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{MrChaste}/count.svg)
+
 
 <!--
 **MrChaste/MrChaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
