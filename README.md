@@ -3,8 +3,6 @@
 ---
 I am an Android Engineer who knows his way around the technologies listed in the **toolbox** below, and then some.
 
-Now that I think about it, I would rather orate about sound Software Architecture than have *Lindt* chocolates (I really love these) 
-
 Thanks for visiting my Github profile. You can also get a hold of me on [Twitter](https://twitter.com/oseluonamen_) and [LinkedIn](https://www.linkedin.com/in/chasteakomoize/)
 
 ---
