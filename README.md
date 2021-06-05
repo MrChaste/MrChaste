@@ -1,43 +1,43 @@
-### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Chaste Akomoize.
+### Get to know me
+#
+#### When I'm involved in a project, I think about:
+- User experience
+- Efficiency
+- Architecture
+- Maintainability
 
----
-I am an Android Engineer who knows his way around the technologies listed in the **toolbox** below, and then some.
+#### I gravitate toward:
+- Creating a wonderful experience for users.
+- Filtering complex ideas and use-cases to their essence.
+- Simplicity.
+- Constant improvement.
+- Collaboration.
 
-Thanks for visiting my Github profile. You can also get a hold of me on [Twitter](https://twitter.com/oseluonamen_) and [LinkedIn](https://www.linkedin.com/in/chasteakomoize/)
+> "Simplicity is the ultimate sophistication."
 
----
-🧰 Toolbox 
+  *- Lao Tzu*
+  
+<details>
+  <summary>More about me... (Click to expand)</summary>
+  
+  #### I'm proficient in
+  - Writing, editing and reviewing Kotlin code
+    * using coroutines/Flow for structured concurrency.
+    * using abstract classes or interfaces, as the case requires, to seperate implementation detail from intention
+    * using functions and higher order functions
+    * using object oriented programming principles (Inheritance, Encapsulation, Polymorphism, Abstraction)
+  - Modern Android Development
+     * Substantial aptitude of most common Android APIs
+     * Android Jetpack Library
+     * Material Design
+     * MVVM - *an architecture pattern recommended by Google*
+  - REST APIs
+  - Reading Java code (writing too, but I've preferred writing Kotlin since 2017)
+  - Chess (I couldn't resist :smirk:) 
+</details>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50">
+### How to reach me
+You can get a hold of me on [Twitter](https://twitter.com/oseluonamen_) and [LinkedIn](https://www.linkedin.com/in/chasteakomoize/)
 
----
-
-## &#x1f4c8; My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrChaste&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChaste&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
----
-#### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{MrChaste}/count.svg)
-
-
-<!--
-**MrChaste/MrChaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+### There's more!
+There's more to Chaste Akomoize than is highlighted above :bowtie:. This README file is not immutable. There'll be edits and updates from time to time. Cheers!!
