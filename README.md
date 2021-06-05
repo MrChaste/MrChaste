@@ -25,7 +25,7 @@
     * using coroutines/Flow for structured concurrency.
     * using abstract classes or interfaces, as the case requires, to seperate implementation detail from intention
     * using functions and higher order functions
-    * using object oriented programming principles (Inheritance, Encapsulation, Polymorphism, Abstraction)
+    * using object oriented programming principles (Inheritance, Encapsulation, Polymorphism, Abstraction (big words for simple ideas if you ask me :unamused:))
   - Modern Android Development
      * Substantial aptitude of most common Android APIs
      * Android Jetpack Library
