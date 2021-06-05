@@ -1,4 +1,4 @@
-### Get to know me
+## Get to know me
 #
 #### When I'm involved in a project, I think about:
 - User experience
